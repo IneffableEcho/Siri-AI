@@ -1,2 +1,2 @@
-# Siri-AI
+# Siri AI
 Apple intelligence
